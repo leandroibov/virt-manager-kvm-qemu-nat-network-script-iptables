@@ -11,3 +11,6 @@ sudo chmod +x ./virt_manager_delete.sh;
 sudo ./virt_manager_br11.sh;
 sudo ./virt_manager_br10.sh;
 sudo ./virt_manager_delete.sh;
+
+Tutorial completo sobre resolver problemas de travamento de rede nat ou não funcionamento da rede nat no QEMU, KVM virt-manager nesse vídeo completo. 
+https://www.youtube.com/watch?v=nuBAgEK1eCY&t=2s
