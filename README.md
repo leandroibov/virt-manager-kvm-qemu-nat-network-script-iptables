@@ -53,6 +53,10 @@ sudo virt-manager;
 
 Vá em network e apagar manualmente pela interface gráfica.
 
+## Vídeo Tutorial e artigo completo
+
+https://traderprofissional.com.br/virt-manager-linux-nat.aspx
+
 https://www.youtube.com/watch?v=nuBAgEK1eCY&t=2s
 
 
